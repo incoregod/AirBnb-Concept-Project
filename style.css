@@ -10,12 +10,14 @@ body {
 
 .app-container-light {
   height: 100vh;
-  overflow: hidden;
+  overflow-y: visible;
+  overflow-x: hidden;
 }
 
 .app-container-dark {
   height: 100vh;
-  overflow: hidden;
+  overflow-y: visible;
+  overflow-x: hidden;
   color: #fff;
 }
 
